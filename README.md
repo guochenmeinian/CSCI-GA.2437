@@ -13,7 +13,7 @@ The goal of this project is to perform data profiling, cleaning, and advanced an
 
 ## Structure
 - `data/`: small pieces of dataset for preview
-- `notebooks/`: zeppelin notebooks for data exploration and modeling
+- `code.ipynb`: zeppelin notebook for data exploration and modeling
 
 
 ## Analytics:
